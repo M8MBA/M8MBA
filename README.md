@@ -1,4 +1,7 @@
 ### Hi there 👋
+### My Name is Cade and I am currently taking a deep dive into best web accesibilty practices!
+
+![everestunsplash](https://github.com/M8MBA/M8MBA/assets/97080366/6d36d3c5-c2c9-4181-be5f-9984ceea288d)
 
 <!--
 **M8MBA/M8MBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
