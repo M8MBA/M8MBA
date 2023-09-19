@@ -1,5 +1,5 @@
-### Hi there 👋
-### My Name is Cade and I am currently taking a deep dive into best web accesibilty practices!
+### Aloha 🌺
+### My Name is Cade, I'm an aspiring Frontend Web Developer!
 
 <!--
 **M8MBA/M8MBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
