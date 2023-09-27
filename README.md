@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Building a skyline using CSS Variables
-- 🌱 I’m currently learning ... CSS Variables
+- 🔭 I’m currently working on ... Building a product landing page for a mobile detailing company.
+- 🌱 I’m currently learning ... CSS
 - 🤔 I’m looking for help with ... Learning React
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... cademichaelwilson@gmail.com
