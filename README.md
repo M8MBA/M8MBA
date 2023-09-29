@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Building a product landing page for a mobile detailing company.
+- 🔭 I’m currently working on ... Using CSS to create animation.
 - 🌱 I’m currently learning ... CSS
 - 🤔 I’m looking for help with ... Learning React
 - 💬 Ask me about ... Anything!
